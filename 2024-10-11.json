@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Waters",
+  "age": 33,
+  "address": {
+    "street": "Pemlud Pass",
+    "city": "Luzbeti",
+    "state": "ID",
+    "zip": "16296"
+  },
+  "contact": {
+    "phone": "(525) 396-9172",
+    "servicePhone": "800352232"
+  },
+  "birthday": "1964-02-07T12:20:10.379Z",
+  "ip": "249.28.160.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Piwec tikew horipap cukafeja idinazut illit gadsoc nud pavodekow sog ave goepasom ho. Orzarmil wuw wood tehdehoc cuvfi bumab cuajtod pih gunihun etulas ravok be rahecru. Oleletka iwti ud ne ok asa mil vergo enatip towwidne lif is nomner. Ije fuitu zorapafo fuanawe vihjejci pela fiksaj lu ifapekbeb jes zekejuwu hop. Cikojoj meabubel korad gur varotgat tezduumo sofevnej bas zake kucmo gufkekeva kalabtem gev mocopkez mejruuc tegjigpot ju.",
+    "bio": "Pi buz viutu dobdu ifug sag ejiemzu hukjefla veotuwij vuh ohbediv offem zizepa dogac. Akfoto zufgik hu epuhi wuke heweuke jihzif nehhep pe vutinuv togdag nuplefaf cembemo devuoh naku. Hoefu sejic iro haifni efcuhjev azi sipalfo tidkawbi getu evozuci cagduduv migwam cahune wub do moc afoha. Wujoto nalle erunu erurahe pojviz ikinijaz fosdaro icacim taako wemtepcap itbu ji zeg vezciku unizajke watpuni awlebim icoajta."
+  },
+  "apiKey": "ad6ad385623e12ab3dec17b0d427ca00c45725fa5ebecd5f1429c85cc0ac1ff8",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}

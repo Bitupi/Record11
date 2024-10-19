@@ -1,0 +1,26 @@
+{
+  "name": "Julian Davis",
+  "age": 43,
+  "address": {
+    "street": "Uwbu Plaza",
+    "city": "Rologze",
+    "state": "LA",
+    "zip": "74540"
+  },
+  "contact": {
+    "phone": "(346) 946-2394",
+    "servicePhone": "800529564"
+  },
+  "birthday": "1993-06-23T10:54:17.798Z",
+  "ip": "190.49.139.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Me na cu buz be muamci juwwiez ehibekik ih kehci iruzgo dozlo nuhzuir veshirke asetijja rokvowcag ki. Seb hoskama bop jer la jotimja obniwij no wummiv uvage vioviju kirzuz. Kudunre utvibpa miccahe jawfopur gepif povda nubu puupe vuplamlir de sijlag boj pudze tepil.",
+    "bio": "Weloocu cimi sewraveg jetdunu jefhoslom osbijre woztafuz urlik upvureci ratu idesowheb goeh. Itowutu abe jeto zuvcar sof ip dazsovi rito ubuaha medvabar likib wugisoci iptapapi rehebhuc inrufika. Vuju lej sag gabgo olcof tap puti ner iporocwo hecih vewo ceuka ki vur za mep."
+  },
+  "apiKey": "7596fa3068496138bf8467a2d937932501a1fd4e396553b62c3eb873fa620437",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}

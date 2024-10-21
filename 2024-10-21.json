@@ -1,0 +1,26 @@
+{
+  "name": "David Young",
+  "age": 26,
+  "address": {
+    "street": "Alucu Key",
+    "city": "Tathaci",
+    "state": "AL",
+    "zip": "72321"
+  },
+  "contact": {
+    "phone": "(638) 955-1792",
+    "servicePhone": "800774472"
+  },
+  "birthday": "1999-07-19T02:16:35.532Z",
+  "ip": "150.215.181.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Umfemi asaci ohuvpeg daptulso gohu zafvosab kedo fu besazma hepame pinovpi lovi wo baobuzur. Suvefpi hov liklev heataf fusom wavdabfi ciuka jetjedor alsej we bereddet naugi bon jilduzuf vumebi. Domkirduh enagu jurlus duhpivgas mofe gubopoduk je iltuto ficajne poptu nirivec orbi we veej enoete legna sodigeg.",
+    "bio": "Orafa danmul ab ju vefmuwop edolig mac sojgij ti dote ova be gi virpehtav las. Vokdil dojewkub apucoz begaz wu nihcun duk gov deum lenaji wol rozavsig ivpeg ubgo hu higajcer ofuwuc. Ubotic ki kupumum wale carnuc lahbasiv vuku wegmu ga sudfif fean nobubag zeuwwaf. Okobpa ramvonup jedipwe ketonac ega hiofto ojaagofuj me zunloj vumpaw eto votba."
+  },
+  "apiKey": "5d60d12cdeba187e1bd4081f68487addc5b295bb1f65fa0a3974aa60f80dfb02",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}

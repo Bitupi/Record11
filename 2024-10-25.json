@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Ramos",
+  "age": 36,
+  "address": {
+    "street": "Kacki Center",
+    "city": "Diivoke",
+    "state": "CT",
+    "zip": "62431"
+  },
+  "contact": {
+    "phone": "(665) 488-2504",
+    "servicePhone": "800373213"
+  },
+  "birthday": "1965-02-19T06:27:22.213Z",
+  "ip": "102.214.165.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Gidvub himdu tus wi leetu kigamom reguzwil no ezko aw vom kil moruutu awlin cehu. Oso hame zota kodmuvub ela ka cuslud boguklu baltinif we cog nejat. Sogag is fidu ir viluni puzkivse sop zah te atceawu nak same wuv joswohtu tej konu. Oklam gakodi loifa odfa la iwu aloferul ajtuw afi olocira mazjoren zuezi voka. Gofsuw nur juhlil eb cehdud hahbawoze nudgiji goghoc caav abutolso fetir epfo wa oz hipofewi joake.",
+    "bio": "Jisgu hehfa lu fidamma fafohiec so hertacjel dotadelaf ejadenik tezneli biof rejawop gojawpoj li dadutmo da. Tevov ahe los sozifah ujeobzu vaatso demeg ananu asi dozroc opsiso po cac tu taruj. Mihtih uskefon befuho led modeet ami sod tekdod ep fa se lavibvel oti ubhu ja vewjupesu orli pojdopvot."
+  },
+  "apiKey": "bb0b75814df2eef0722d847fe888507ba3ee1393fc35b00572a0006cba10107d",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}

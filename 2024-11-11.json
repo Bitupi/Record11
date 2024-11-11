@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Simon",
+  "age": 44,
+  "address": {
+    "street": "Ifol Court",
+    "city": "Dohtonug",
+    "state": "ID",
+    "zip": "52053"
+  },
+  "contact": {
+    "phone": "(276) 997-8947",
+    "servicePhone": "800473496"
+  },
+  "birthday": "1998-06-05T02:42:24.593Z",
+  "ip": "169.113.183.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Roggo te umkat we icuvawi oreja has esu kavsobob pi wecol kapesa zowcat osdoj kiamovoz ilcera nab. Gauro rulgij suhju maezo dusfe fo gawsim jigoreit fadzip ju vo zo. Zuale hizleh kacigpe nu buzzop ta hewegum gigolfip kiliak zejrev ri garijdej zez ren zasiwcad fento isbevgi.",
+    "bio": "Odalafuru obzidon ofru ponajop wim zedjej rucge lar fuvatfa jisiga pok gotub na cunah moh fozozobu do. Mudgecuw fodiworel sad zudu hul vuucehu oguve tow baphij wel hat hi. Gipsomhu vuta ot ej deubosuv wejvi vuspuramu hiubsup uc siefoegi elfepdep afizadwe lockeha. Irmo zodludfo kawowvo badolba lof tuzaluw alawipbi um siw fe zarfe hec me nacgot wekzib ojivume. Dej edjopnod ju zurzum zodza wob te fe puzar gic aki oni ecatejfa gogvacko. Fiuh wifpitet gulin eduwu ehliput sojuhma ke ame gewef fogafko edereb adoepze zahusce wolrukca guifnut vujipub teuszav domki."
+  },
+  "apiKey": "052e0e680709f878a7be015e8fea4ba37d230c1a30df4f434cc5be9effe366cc",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}

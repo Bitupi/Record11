@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Craig",
+  "age": 28,
+  "address": {
+    "street": "Wufab Boulevard",
+    "city": "Balahu",
+    "state": "MA",
+    "zip": "14864"
+  },
+  "contact": {
+    "phone": "(235) 925-7705",
+    "servicePhone": "800728989"
+  },
+  "birthday": "1986-11-16T10:57:32.427Z",
+  "ip": "202.56.216.63",
+  "foo": "bar",
+  "profile": {
+    "about": "As ewicusa dek ike tat na imerizsod itpahhu wuk vumob rukzosnov vuce bebnamsob adaze fe pi tadduzaz uzisu. Goffete gu re na hosugzec talhipi id kerec odekefac betonfug lisefuge nub ma nojikrel aso kobevvo. Jir cedgotam tikkazaw vuzfug riv tiggegiko wa talad uhga bir wup lesnu utetu pib.",
+    "bio": "Pin sesigla sukehe rovigiuru mawjufjah ezozihac erawumus asu jov ahcugaw kesano ze. Pebe galbuweni wod femkadsa ubnofi jafcup fiak vefeg guguted uhegu titeg acefe mobsopwi ivefasa sidumgo fuajabem mavlubvi onu. Meusnaf ikeru jew piikies ko giizjeh pa rik me hogubid at kuinevi werrum mon rasfake picso kotgu esoefe."
+  },
+  "apiKey": "330c20bd0fac3b47f9829b138e1c9b96fdb607f502c7d41db161f182fc7c641a",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}

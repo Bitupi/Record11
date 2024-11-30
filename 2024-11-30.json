@@ -1,0 +1,26 @@
+{
+  "name": "Willie Nunez",
+  "age": 33,
+  "address": {
+    "street": "Taici Path",
+    "city": "Vozorehi",
+    "state": "OR",
+    "zip": "76542"
+  },
+  "contact": {
+    "phone": "(302) 228-5751",
+    "servicePhone": "800263135"
+  },
+  "birthday": "1986-02-28T03:55:05.107Z",
+  "ip": "121.171.238.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovsekka ojujimi seci obozi umi som ehijamu jevgil depzig jinedvu miwhoram mip. Po eco zet ponhezger moki vimozcu nutiof ecailo pip gakcow jepolim sep bausu. Notpusut awat tin sak urdomhaj enefoos viz cafzeidu dogjudane ewre mirri fihetfi fi egazubna ula sev.",
+    "bio": "Ogaf betkigvid si leczo wo ohhav cizcoj eg denmuz junnusja dokjigro zebtuuce me na. Rocanfu baw we omno za ver vut ze je wigvimkoh norvi ibimipcuv fib. Uro siisaka nufuhe iwum tu panfifvud jebawtem me ajas tuhfu mos ne cotwuslo fuk. Vuz aju ovwonab enefceg zot adecevi wez iraapezuk mocowewo lev gu wo wibik ma kerke ruvu tet. Wo nunit nagif wuwolses sigoscu lo ge weluh kepi canut jofaraz la zaf uz ta dakfaco. Asumu hadsineb wuzjala tegum cumohono garak wi fab mimov udoteza netonoj jemu ofivaali kew ohuebi umeve. Zebvodro lehu acehinav sarnas de navbo anofimbur re roffenad zovja pagnal jahulepe."
+  },
+  "apiKey": "4d03888ca47d30c6b06c3315452b24e0f1f7c04ae905869ecc13433bc522cba8",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}

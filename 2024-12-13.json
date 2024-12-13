@@ -1,0 +1,26 @@
+{
+  "name": "Susie Lynch",
+  "age": 39,
+  "address": {
+    "street": "Isape Pass",
+    "city": "Divvoar",
+    "state": "AR",
+    "zip": "22064"
+  },
+  "contact": {
+    "phone": "(437) 224-4005",
+    "servicePhone": "800634978"
+  },
+  "birthday": "1997-11-19T01:32:41.621Z",
+  "ip": "217.217.93.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Muwi ripolebu leltad tutzir jegicuz dukjapa vimuaro obaiblu ec sewgiiw isuer tijgosuci ugde kihag bu pocitosit ru. Odgaega to ka dadupak ulezalgim ti vudakoh idinuza irjok vo alu eha sac wir jak. Nusawer kigbom owogevwiw pejapev tun zi micuskuw lefic odrok gedig no orpuv gom it navdi. Fe ew kuf nilmarko uw okup sapem jovdocopi vilrugo zejose kebcideka ecata geje tizap bif seettif zit oluoprop.",
+    "bio": "Ri ce dowuw ahorih tohirja geadedu dazig ehupmev fuswevi dupeve obotedev voguuw bu rid soj ivu ri wolwe. Aszaz roge ziglaj fe akorumgez canazfi utojocdu vedoh vasew kiunu can delfibti gu. Ri lugkozad fifikcer ophuzud ful gil nuwhozhu loz wug jemos jelbimgo pifipmup mednowdi da luc rumapu. Pomaw fesradper tusiri gicik zegtebjo gadamel voisegip pej vob vujjesut dalimfu epvezej nitfuz vopbep robib juf bur."
+  },
+  "apiKey": "cba85e41e48ddb8a0b11f4b927f3c817a6b07d0788facf5df2ecec9925b2711f",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
